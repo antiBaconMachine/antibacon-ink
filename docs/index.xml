@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>antibacon.ink</title>
-    <link>http://example.org/</link>
+    <link>http://www.antibacon.ink/</link>
     <description>Recent content on antibacon.ink</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Jun 2019 20:40:51 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.antibacon.ink/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tales From the Canon</title>
-      <link>http://example.org/posts/tales-from-the-canon/</link>
+      <link>http://www.antibacon.ink/posts/tales-from-the-canon/</link>
       <pubDate>Tue, 04 Jun 2019 20:40:51 +0100</pubDate>
       
-      <guid>http://example.org/posts/tales-from-the-canon/</guid>
+      <guid>http://www.antibacon.ink/posts/tales-from-the-canon/</guid>
       <description>                     </description>
     </item>
     
     <item>
       <title>The Dead Flag Blues</title>
-      <link>http://example.org/posts/the-dead-flag-blues/</link>
+      <link>http://www.antibacon.ink/posts/the-dead-flag-blues/</link>
       <pubDate>Tue, 04 Jun 2019 20:12:42 +0100</pubDate>
       
-      <guid>http://example.org/posts/the-dead-flag-blues/</guid>
+      <guid>http://www.antibacon.ink/posts/the-dead-flag-blues/</guid>
       <description>                     </description>
     </item>
     
